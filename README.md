@@ -1,2 +1,4 @@
 # JGR
-Diese Umgebung ist ansich zum programmieren gedacht erfüllt aber auch ohne probleme die zwecke di wir für die Protokollführung brauchen
+Liebe Teamer,
+hier sammeln wir alle unsere Protokolle von unseren Sitzungen.
+Bitte zeitnah hochladen und korrekt Betiteln.
